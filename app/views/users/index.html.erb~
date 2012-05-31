@@ -1,5 +1,5 @@
-<body>
-<img src="/media/Mohan/IMAGES/photoshop/abstra.jpg"
+
+<body background="abstra.jpg">
 <h1>Listing users</h1>
 
 <table>
